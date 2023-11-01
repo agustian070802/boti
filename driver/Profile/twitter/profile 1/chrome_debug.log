@@ -1,6 +1,0 @@
-[5636:18308:1101/130649.599:WARNING:chrome_main_delegate.cc(613)] This is Chrome version 118.0.5993.118 (not a warning)
-[5636:18308:1101/130649.639:INFO:policy_logger.cc(142)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
-[5636:18308:1101/130649.639:INFO:policy_logger.cc(142)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
-[5636:18308:1101/130653.452:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/FirmanKunc84785/status/1719582112565887477 (0)
-[5636:18308:1101/130659.170:INFO:CONSOLE(0)] "ResizeObserver loop completed with undelivered notifications.", source: https://twitter.com/FirmanKunc84785/status/1719582112565887477 (0)
-[5636:18308:1101/130712.085:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
